@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annisingh-code
 - 👀 I’m interested in ...coding and technology
 - 🌱 I’m currently learning ...coding,graphics designing,video editing
-- 💞️ I’m looking to collaborate on ...Learning coding and creating interinteresting projects
+- 💞️ I’m looking to collaborate on ...Learning coding and creating interesting projects
 - 📫 How to reach me ...You can Email me on anni7621@gmail.com 
 
 <!---
