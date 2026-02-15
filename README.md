@@ -72,14 +72,20 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annisingh-code&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annisingh-code&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
 
 <div align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annisingh-code&theme=tokyonight" alt="Anish's GitHub Stats" />
+
+  <br/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annisingh-code&theme=tokyonight" alt="Anish's Top Languages" />
+
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annisingh-code&theme=tokyonight&hide_border=true" alt="anish's streak" />
+
 </div>
 
 ---
