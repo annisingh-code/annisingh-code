@@ -75,8 +75,9 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annisingh-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="anish's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisingh-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="anish's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=annisingh-code&show_icons=true&theme=tokyonight" height="160" alt="anish's github stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisingh-code&layout=compact&theme=tokyonight" height="160" alt="anish's top languages" />
 </div>
 
 <br />
