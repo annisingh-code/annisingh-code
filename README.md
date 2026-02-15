@@ -43,8 +43,8 @@ Gamified learning platform with quizzes, XP rewards & badges
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annisigh-code&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisigh-code&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=annisingh-code&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisingh-code&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
